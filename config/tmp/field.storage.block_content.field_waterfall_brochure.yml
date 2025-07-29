@@ -1,0 +1,20 @@
+uuid: 1ebb42b2-5961-44b4-b69e-01dfd523bbee
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+    - media
+id: block_content.field_waterfall_brochure
+field_name: field_waterfall_brochure
+entity_type: block_content
+type: entity_reference
+settings:
+  target_type: media
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

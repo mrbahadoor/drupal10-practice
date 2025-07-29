@@ -1,4 +1,4 @@
 .ddev/
 vendor/
-config/tmp/
 web/sites/default/files/
+web/modules/contrib/
